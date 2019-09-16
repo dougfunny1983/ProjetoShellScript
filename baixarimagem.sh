@@ -1,7 +1,7 @@
 #!/bin/bash
-teste ola
-Eu sou Trybe e estou aprendendo git and github
-tudo para apagar daqui para cima
+#teste ola
+#Eu sou Trybe e estou aprendendo git and github
+#tudo para apagar daqui para cima
 API_KEY="https://pixabay.com/get/35bbf209e13e39d2_640.jpg"
 read -p"o que voce procura? " SEARCH_TERM
 read -p"quantidade de termos" QTY_RESULTS
