@@ -1,4 +1,7 @@
 #!/bin/bash
+
+Eu sou Trybe e estou aprendendo git and github
+
 API_KEY="https://pixabay.com/get/35bbf209e13e39d2_640.jpg"
 read -p"o que voce procura? " SEARCH_TERM
 read -p"quantidade de termos" QTY_RESULTS
